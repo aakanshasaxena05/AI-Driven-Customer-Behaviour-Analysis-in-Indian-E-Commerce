@@ -166,16 +166,6 @@ SQL was used to answer business questions and calculate key performance indicato
 - Customer segmentation
 - Interactive slicers for dates, categories, states, and devices
 
-### Dashboard Preview
-
-Add your Power BI screenshots here after uploading them to your GitHub repository.
-
-Example:
-
-```markdown
-![E-Commerce Dashboard](images/ecommerce_dashboard.png)
-```
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
