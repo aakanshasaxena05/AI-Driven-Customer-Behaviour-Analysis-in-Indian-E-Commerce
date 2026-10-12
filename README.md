@@ -52,8 +52,7 @@ This project analyzes **3,000 customer browsing sessions** to understand custome
 - Payment methods
 - Session engagement metrics
 
-> Note: The dataset statistics above are based on the project's current analysis and should be verified against the final cleaned dataset.
-
+> 
 ## 🛠️ Tech Stack
 
 | Category | Tools |
