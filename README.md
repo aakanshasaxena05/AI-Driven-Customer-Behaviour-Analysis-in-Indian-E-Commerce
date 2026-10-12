@@ -152,7 +152,8 @@ SQL was used to answer business questions and calculate key performance indicato
 
 ## 📊 Power BI Dashboard
 
-The dashboard is designed to help stakeholders monitor e-commerce performance and explore customer behavior interactively.
+<img width="1132" height="752" alt="Ecommerce dashboard" src="https://github.com/user-attachments/assets/6a4e47bf-903c-4f6e-a70d-bc99523701a8" />
+
 
 ### Recommended Dashboard Components
 
