@@ -241,5 +241,3 @@ Finally, open `ecommerce_dashboard.pbix` using Power BI Desktop to explore the d
 
 
 ⭐ If you find this project useful, consider giving the repository a star.
-
-*Built to demonstrate practical skills in data cleaning, SQL analytics, exploratory data analysis, and business intelligence.*
